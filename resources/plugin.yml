@@ -1,0 +1,7 @@
+name: JavaAC
+main: cc.tommyw.javaac.Main
+version: 1.0
+commands:
+  jac:
+    description: JavaAC
+    usage: /jac
